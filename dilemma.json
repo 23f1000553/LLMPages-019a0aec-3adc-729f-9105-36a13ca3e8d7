@@ -1,0 +1,5 @@
+{
+    "people": 6,
+    "case_1": {"swerve": false, "reason": "Hit 2 criminals"},
+    "case_2": {"swerve": true, "reason": "Save the child"}
+}
